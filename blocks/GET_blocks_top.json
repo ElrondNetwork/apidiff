@@ -12,7 +12,7 @@
         "timestamp": 1605092256,
         "stateRootHash": "d06169a5d11b80fe485d23cd17d1ec3525a0eefd357710b4eab03039d918075c",
         "prevHash": "c099b28a529dd4f6aabe070194ea1d64ac3383ebf46e0592d711a654426bb181",
-        "shardId": 1,
+        "shard": 1,
         "txCount": 0,
         "searchOrder": 1031495599
     },
@@ -29,7 +29,7 @@
         "timestamp": 1605092232,
         "stateRootHash": "d06169a5d11b80fe485d23cd17d1ec3525a0eefd357710b4eab03039d918075c",
         "prevHash": "e41118f9a1b44cf2b7a61b064090bd5d9cd63cf97a5d04a8b8b46758a8e85fd8",
-        "shardId": 1,
+        "shard": 1,
         "txCount": 0,
         "searchOrder": 1031495595
     },
@@ -46,7 +46,7 @@
         "timestamp": 1605092220,
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "9cece2e72bbaa15cae50666a2f54c745bcd39182c9282346eb6ddc0deb25e154",
-        "shardId": 0,
+        "shard": 0,
         "txCount": 0,
         "searchOrder": 1021495615
     },
@@ -63,7 +63,7 @@
         "timestamp": 1605092244,
         "stateRootHash": "d06169a5d11b80fe485d23cd17d1ec3525a0eefd357710b4eab03039d918075c",
         "prevHash": "8c669659bd822258906271b82c86427d64cb74bfcefb14044a549d04c5cb3b1e",
-        "shardId": 1,
+        "shard": 1,
         "txCount": 0,
         "searchOrder": 1031495597
     },
@@ -85,7 +85,7 @@
         "timestamp": 1605092232,
         "stateRootHash": "f020f2eb85b1dea98caa73086ac3d545606469c4af55e7ff72ede138aa2502f1",
         "prevHash": "ff441d261d6d9cc4995a05871192d8789e74a6f9d2b2cd4a12e92f83797a4658",
-        "shardId": 4294967295,
+        "shard": 4294967295,
         "txCount": 0,
         "searchOrder": 1011492116
     },
@@ -102,7 +102,7 @@
         "timestamp": 1605092244,
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "33ff2cae5ff4354074da68e772eab7d29564ccb302e845b57163ed1ec8a5c8c1",
-        "shardId": 0,
+        "shard": 0,
         "txCount": 0,
         "searchOrder": 1021495619
     },
@@ -119,7 +119,7 @@
         "timestamp": 1605092238,
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "9f2f776c5c7dc1131f9a75f2b90f409a3399fa3dc3b66a29fe4db43b35caaff9",
-        "shardId": 0,
+        "shard": 0,
         "txCount": 0,
         "searchOrder": 1021495618
     },
@@ -136,7 +136,7 @@
         "timestamp": 1605092226,
         "stateRootHash": "47bac17dc56b8078c093b3af6ebf5ffeea35c62edfb9e53100ce1f3613fb5b6b",
         "prevHash": "cca14318e036c6658a35782fef9dbc2de31c7b088e335ab3c982910764900d4d",
-        "shardId": 2,
+        "shard": 2,
         "txCount": 0,
         "searchOrder": 1041495503
     },
@@ -153,7 +153,7 @@
         "timestamp": 1605092250,
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "2e2f0bf9933b1f3b8d5807cdfb199511a2f507b3b8edd5159bf8b4b522b4797a",
-        "shardId": 0,
+        "shard": 0,
         "txCount": 0,
         "searchOrder": 1021495620
     },
@@ -175,7 +175,7 @@
         "timestamp": 1605092238,
         "stateRootHash": "f020f2eb85b1dea98caa73086ac3d545606469c4af55e7ff72ede138aa2502f1",
         "prevHash": "202970e95ca44b78cb0a566f34fc03bc36a29bad5fcb8e2829eddbd7dba3f127",
-        "shardId": 4294967295,
+        "shard": 4294967295,
         "txCount": 0,
         "searchOrder": 1011492117
     },
@@ -192,7 +192,7 @@
         "timestamp": 1605092256,
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "3f6ca6e16899ff7d4bd0db580f950a36fd6a17c83983f3776cffa266e3a4bdb1",
-        "shardId": 0,
+        "shard": 0,
         "txCount": 0,
         "searchOrder": 1021495621
     },
@@ -209,7 +209,7 @@
         "timestamp": 1605092238,
         "stateRootHash": "47bac17dc56b8078c093b3af6ebf5ffeea35c62edfb9e53100ce1f3613fb5b6b",
         "prevHash": "a1c344bc352190c9f5f419e53d1557d9b54946a5cfdd543f02ec8d28adc6153d",
-        "shardId": 2,
+        "shard": 2,
         "txCount": 0,
         "searchOrder": 1041495505
     },
@@ -226,7 +226,7 @@
         "timestamp": 1605092256,
         "stateRootHash": "47bac17dc56b8078c093b3af6ebf5ffeea35c62edfb9e53100ce1f3613fb5b6b",
         "prevHash": "7422949ed19cc1864ec7fb8974049fe71a906e00263f6d41b9cebc0faeb92f7a",
-        "shardId": 2,
+        "shard": 2,
         "txCount": 0,
         "searchOrder": 1041495508
     },
@@ -243,7 +243,7 @@
         "timestamp": 1605092250,
         "stateRootHash": "47bac17dc56b8078c093b3af6ebf5ffeea35c62edfb9e53100ce1f3613fb5b6b",
         "prevHash": "f2dd1f3e1c2a97fa6371969cb54fb04a45d025eb6942dffa92ce15f4ff9e8145",
-        "shardId": 2,
+        "shard": 2,
         "txCount": 0,
         "searchOrder": 1041495507
     },
@@ -265,7 +265,7 @@
         "timestamp": 1605092250,
         "stateRootHash": "f020f2eb85b1dea98caa73086ac3d545606469c4af55e7ff72ede138aa2502f1",
         "prevHash": "853a396f1ea9a67e709b9b115ad4be09f3967622f0dc961c793560eb45ba7866",
-        "shardId": 4294967295,
+        "shard": 4294967295,
         "txCount": 0,
         "searchOrder": 1011492119
     },
@@ -287,7 +287,7 @@
         "timestamp": 1605092244,
         "stateRootHash": "f020f2eb85b1dea98caa73086ac3d545606469c4af55e7ff72ede138aa2502f1",
         "prevHash": "44ee0b33ba4c4eb0466156f6a85f5c90d57284d6b4df36991a8be79e22daed64",
-        "shardId": 4294967295,
+        "shard": 4294967295,
         "txCount": 0,
         "searchOrder": 1011492118
     },
@@ -304,7 +304,7 @@
         "timestamp": 1605092238,
         "stateRootHash": "d06169a5d11b80fe485d23cd17d1ec3525a0eefd357710b4eab03039d918075c",
         "prevHash": "1351d48d6a267d67e1cfc1b920a3d07ddfa1e8b7bc0ee59dc1d9c750a5d21027",
-        "shardId": 1,
+        "shard": 1,
         "txCount": 0,
         "searchOrder": 1031495596
     },
@@ -321,7 +321,7 @@
         "timestamp": 1605092232,
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "f694b87cb7881287a54514935ef00763cef7aef3904dbdb74ab91c02f0bf3125",
-        "shardId": 0,
+        "shard": 0,
         "txCount": 0,
         "searchOrder": 1021495617
     },
@@ -343,7 +343,7 @@
         "timestamp": 1605092256,
         "stateRootHash": "f020f2eb85b1dea98caa73086ac3d545606469c4af55e7ff72ede138aa2502f1",
         "prevHash": "7eecd9cc778fb0bfb1e1f9d22c0ceb526de889997d0be02931d0c09302913831",
-        "shardId": 4294967295,
+        "shard": 4294967295,
         "txCount": 0,
         "searchOrder": 1011492120
     },
@@ -360,7 +360,7 @@
         "timestamp": 1605092232,
         "stateRootHash": "47bac17dc56b8078c093b3af6ebf5ffeea35c62edfb9e53100ce1f3613fb5b6b",
         "prevHash": "36650c299a1835a884e89a01a24e15a961bf8217f73b6d7b6b850a458780f6c8",
-        "shardId": 2,
+        "shard": 2,
         "txCount": 0,
         "searchOrder": 1041495504
     },
@@ -377,7 +377,7 @@
         "timestamp": 1605092250,
         "stateRootHash": "d06169a5d11b80fe485d23cd17d1ec3525a0eefd357710b4eab03039d918075c",
         "prevHash": "17cb4b144e6ab049d42bb3bef3db160f3b0bc173d9596ce3d95b0653f5671944",
-        "shardId": 1,
+        "shard": 1,
         "txCount": 0,
         "searchOrder": 1031495598
     },
@@ -394,7 +394,7 @@
         "timestamp": 1605092226,
         "stateRootHash": "d06169a5d11b80fe485d23cd17d1ec3525a0eefd357710b4eab03039d918075c",
         "prevHash": "258c4f09e5c1cbf5408fcc6ce523e3c18503682b5f2cda3cfd320ffc83036809",
-        "shardId": 1,
+        "shard": 1,
         "txCount": 0,
         "searchOrder": 1031495594
     },
@@ -411,7 +411,7 @@
         "timestamp": 1605092244,
         "stateRootHash": "47bac17dc56b8078c093b3af6ebf5ffeea35c62edfb9e53100ce1f3613fb5b6b",
         "prevHash": "670ca1361e0923d54bd5cc0887d2606afe8d4e3d91ab87684b7af06a274eb326",
-        "shardId": 2,
+        "shard": 2,
         "txCount": 0,
         "searchOrder": 1041495506
     },
@@ -428,7 +428,7 @@
         "timestamp": 1605092226,
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "157d7131164352c9f6d233283e2113246e8b0b98fa65b27577cce509c8c8d250",
-        "shardId": 0,
+        "shard": 0,
         "txCount": 0,
         "searchOrder": 1021495616
     },
@@ -450,7 +450,7 @@
         "timestamp": 1605092226,
         "stateRootHash": "f020f2eb85b1dea98caa73086ac3d545606469c4af55e7ff72ede138aa2502f1",
         "prevHash": "255e8dd8aa73976e66de13840c0497415e624d6697f9a51ed3421b552fbe7df5",
-        "shardId": 4294967295,
+        "shard": 4294967295,
         "txCount": 0,
         "searchOrder": 1011492115
     }

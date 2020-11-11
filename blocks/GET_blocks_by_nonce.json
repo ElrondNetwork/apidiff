@@ -17,7 +17,7 @@
         "timestamp": 1596117852,
         "stateRootHash": "8d12c255bb438bd8be5d7de1a9ae6c4d02a2c46ceaf98ae265c71bd20f03b09b",
         "prevHash": "9e31f407801c0fcd0f01554b291bd19ff8c1af2add6714f97a64968c9c0e5ae2",
-        "shardId": 4294967295,
+        "shard": 4294967295,
         "txCount": 0,
         "searchOrder": 10142
     },
@@ -34,7 +34,7 @@
         "timestamp": 1596117852,
         "stateRootHash": "29333aa99761e5ec019448b4290150bc5f204d41b13ad8bd1a61c437dde27641",
         "prevHash": "dbc1f05c8381f76210e84dbbd43146f7f5219702ab3530237e2199acae2b9771",
-        "shardId": 2,
+        "shard": 2,
         "txCount": 0,
         "searchOrder": 10442
     },
@@ -51,7 +51,7 @@
         "timestamp": 1596117852,
         "stateRootHash": "f3800e41494f7d5efe9ade53d933485f4e01ff1c1fde3c1235d2ef69a147b76d",
         "prevHash": "bb57ef613de4a0949802cabed80fe6d90944370e33d186034a9edc10712ea2f4",
-        "shardId": 1,
+        "shard": 1,
         "txCount": 0,
         "searchOrder": 10342
     },
@@ -68,7 +68,7 @@
         "timestamp": 1596117852,
         "stateRootHash": "72a4902493f63b75a267853e9432123688ed4a71c4f030237f7bb58faac6fe1d",
         "prevHash": "f3c2af4e52b0284c81bb6db7c82b5ec7a0fa82494031400a21c18d9d472fbd29",
-        "shardId": 0,
+        "shard": 0,
         "txCount": 0,
         "searchOrder": 10242
     }
