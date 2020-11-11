@@ -1,0 +1,18 @@
+[
+    {
+        "txHash": "a726...",
+        "miniBlockHash": "a726...",
+        "nonce": 0,
+        "round": 1396897,
+        "value": "3580749377176379040269",
+        "receiver": "erd1...",
+        "sender": "4294967295",
+        "receiverShard": 2,
+        "senderShard": 4294967295,
+        "gasPrice": 0,
+        "gasLimit": 0,
+        "gasUsed": 0,
+        "timestamp": 1604499018,
+        "status": "Success"
+    }
+]

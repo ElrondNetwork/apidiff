@@ -1,0 +1,15 @@
+[
+    {
+        "data": {
+            "account": {
+                "address": "erd1...",
+                "nonce": 0,
+                "balance": "2746598421447143658316968",
+                "code": "...",
+                "codeHash": "YTnx9jAn0gLr29qHNR/8t4QLKbG3RnBjcaqZaSkE9cY=",
+                "rootHash": "2+184FpXG5MUdOvc3UNJQj9iaTen+s9rjrNK2Kf5x/Q="
+            }
+        },
+        "code": "successful"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "data": {
+            "status": {
+                "erd_current_round": 1495776,
+                "erd_epoch_number": 103,
+                "erd_nonce": 1492119,
+                "erd_nonce_at_epoch_start": 1479699,
+                "erd_nonces_passed_in_current_epoch": 12420,
+                "erd_round_at_epoch_start": 1483303,
+                "erd_rounds_passed_in_current_epoch": 12473,
+                "erd_rounds_per_epoch": 14400
+            }
+        },
+        "code": "successful"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "hash": "441a47799ba28057dd08f102702be7ea0626fc974a43fd91078ff256740bf6b6",
+        "nonce": 42,
+        "round": 42,
+        "epoch": 0,
+        "miniBlocksHashes": [],
+        "notarizedBlocksHashes": [
+            "7836e30f90beb4c36f902d14ef2d552840baba8d067c094cb32248e4255cf3a8",
+            "5c8223c64fbaa15c5aad35268c69228c6267f7457a2b017c254384626f628e68",
+            "0749bb736743e1a6997058fce170dcace6fe8af1da0e97d41151f757c302d49e"
+        ],
+        "proposer": 145,
+        "pubKeyBitmap": "ffffcffffefff7ffffffffffffff7ffffffffffffffffffffffdfffffffffff7edffffbfffffffffffffffefbffffffdffff",
+        "size": 898,
+        "sizeTxs": 0,
+        "timestamp": 1596117852,
+        "stateRootHash": "8d12c255bb438bd8be5d7de1a9ae6c4d02a2c46ceaf98ae265c71bd20f03b09b",
+        "prevHash": "9e31f407801c0fcd0f01554b291bd19ff8c1af2add6714f97a64968c9c0e5ae2",
+        "shardId": 4294967295,
+        "txCount": 0
+    },
+    {
+        "hash": "7bc803ebd3033afd29d3d2e742802bcba44651b17ad8c5310df6e7972490560b",
+        "nonce": 42,
+        "round": 42,
+        "epoch": 0,
+        "miniBlocksHashes": [],
+        "proposer": 167,
+        "pubKeyBitmap": "ffffffffffffff7f",
+        "size": 387,
+        "sizeTxs": 0,
+        "timestamp": 1596117852,
+        "stateRootHash": "29333aa99761e5ec019448b4290150bc5f204d41b13ad8bd1a61c437dde27641",
+        "prevHash": "dbc1f05c8381f76210e84dbbd43146f7f5219702ab3530237e2199acae2b9771",
+        "shardId": 2,
+        "txCount": 0
+    },
+    {
+        "hash": "c67da8fdf1442344b07cbf50789656f7e6717d86a29b84d4814f5cc7f2d46808",
+        "nonce": 42,
+        "round": 42,
+        "epoch": 0,
+        "miniBlocksHashes": [],
+        "proposer": 345,
+        "pubKeyBitmap": "ffffffffffffff7f",
+        "size": 387,
+        "sizeTxs": 0,
+        "timestamp": 1596117852,
+        "stateRootHash": "f3800e41494f7d5efe9ade53d933485f4e01ff1c1fde3c1235d2ef69a147b76d",
+        "prevHash": "bb57ef613de4a0949802cabed80fe6d90944370e33d186034a9edc10712ea2f4",
+        "shardId": 1,
+        "txCount": 0
+    },
+    {
+        "hash": "eba64d58e033426a0c6115650f75cc46a89793ab2adb03db4e0dca7cc4ec7cc8",
+        "nonce": 42,
+        "round": 42,
+        "epoch": 0,
+        "miniBlocksHashes": [],
+        "proposer": 149,
+        "pubKeyBitmap": "ffffffffffffff7f",
+        "size": 385,
+        "sizeTxs": 0,
+        "timestamp": 1596117852,
+        "stateRootHash": "72a4902493f63b75a267853e9432123688ed4a71c4f030237f7bb58faac6fe1d",
+        "prevHash": "f3c2af4e52b0284c81bb6db7c82b5ec7a0fa82494031400a21c18d9d472fbd29",
+        "shardId": 0,
+        "txCount": 0
+    }
+]

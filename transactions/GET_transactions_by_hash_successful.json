@@ -1,0 +1,20 @@
+[
+    {
+        "txHash": "2028...",
+        "miniBlockHash": "2028...",
+        "nonce": 114,
+        "round": 501083,
+        "value": "1000000000000",
+        "receiver": "erd1...",
+        "sender": "erd1...",
+        "receiverShard": 1,
+        "senderShard": 2,
+        "gasPrice": 1000000000,
+        "gasLimit": 77000,
+        "gasUsed": 77000,
+        "data": "N2Qw...",
+        "signature": "0fa7...",
+        "timestamp": 1599124122,
+        "status": "Success"
+    }
+]

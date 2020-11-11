@@ -1,0 +1,19 @@
+[
+    {
+        "txHash": "474d...",
+        "miniBlockHash": "474d...",
+        "nonce": 126,
+        "round": 615825,
+        "value": "5000000000000000000000",
+        "receiver": "erd1...",
+        "sender": "erd1...",
+        "receiverShard": 2,
+        "senderShard": 2,
+        "gasPrice": 1000000000,
+        "gasLimit": 50000,
+        "gasUsed": 0,
+        "signature": "8856...",
+        "timestamp": 1599812550,
+        "status": "Invalid"
+    }
+]
