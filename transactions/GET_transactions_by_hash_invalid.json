@@ -11,9 +11,10 @@
         "senderShard": 2,
         "gasPrice": 1000000000,
         "gasLimit": 50000,
-        "gasUsed": 0,
+        "gasUsed": 50000,
         "signature": "8856...",
         "timestamp": 1599812550,
-        "status": "Invalid"
+        "status": "invalid",
+        "searchOrder": 2
     }
 ]

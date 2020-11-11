@@ -3,7 +3,7 @@
         "txHash": "2028...",
         "miniBlockHash": "2028...",
         "nonce": 114,
-        "round": 501083,
+        "round": 501087,
         "value": "1000000000000",
         "receiver": "erd1...",
         "sender": "erd1...",
@@ -15,6 +15,7 @@
         "data": "N2Qw...",
         "signature": "0fa7...",
         "timestamp": 1599124122,
-        "status": "Success"
+        "status": "success",
+        "searchOrder": 0
     }
 ]

@@ -5,7 +5,7 @@
         "round": 1495776,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 245,
+        "proposer": "165f...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 390,
         "sizeTxs": 0,
@@ -13,7 +13,8 @@
         "stateRootHash": "d06169a5d11b80fe485d23cd17d1ec3525a0eefd357710b4eab03039d918075c",
         "prevHash": "c099b28a529dd4f6aabe070194ea1d64ac3383ebf46e0592d711a654426bb181",
         "shardId": 1,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1031495599
     },
     {
         "hash": "1351d48d6a267d67e1cfc1b920a3d07ddfa1e8b7bc0ee59dc1d9c750a5d21027",
@@ -21,7 +22,7 @@
         "round": 1495772,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 131,
+        "proposer": "1aae...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 390,
         "sizeTxs": 0,
@@ -29,7 +30,8 @@
         "stateRootHash": "d06169a5d11b80fe485d23cd17d1ec3525a0eefd357710b4eab03039d918075c",
         "prevHash": "e41118f9a1b44cf2b7a61b064090bd5d9cd63cf97a5d04a8b8b46758a8e85fd8",
         "shardId": 1,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1031495595
     },
     {
         "hash": "157d7131164352c9f6d233283e2113246e8b0b98fa65b27577cce509c8c8d250",
@@ -37,7 +39,7 @@
         "round": 1495770,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 6,
+        "proposer": "6abd...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 388,
         "sizeTxs": 0,
@@ -45,7 +47,8 @@
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "9cece2e72bbaa15cae50666a2f54c745bcd39182c9282346eb6ddc0deb25e154",
         "shardId": 0,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1021495615
     },
     {
         "hash": "17cb4b144e6ab049d42bb3bef3db160f3b0bc173d9596ce3d95b0653f5671944",
@@ -53,7 +56,7 @@
         "round": 1495774,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 74,
+        "proposer": "975a...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 390,
         "sizeTxs": 0,
@@ -61,7 +64,8 @@
         "stateRootHash": "d06169a5d11b80fe485d23cd17d1ec3525a0eefd357710b4eab03039d918075c",
         "prevHash": "8c669659bd822258906271b82c86427d64cb74bfcefb14044a549d04c5cb3b1e",
         "shardId": 1,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1031495597
     },
     {
         "hash": "202970e95ca44b78cb0a566f34fc03bc36a29bad5fcb8e2829eddbd7dba3f127",
@@ -74,7 +78,7 @@
             "cca14318e036c6658a35782fef9dbc2de31c7b088e335ab3c982910764900d4d",
             "157d7131164352c9f6d233283e2113246e8b0b98fa65b27577cce509c8c8d250"
         ],
-        "proposer": 24,
+        "proposer": "d962...",
         "pubKeyBitmap": "ffffffffffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
         "size": 933,
         "sizeTxs": 0,
@@ -82,7 +86,8 @@
         "stateRootHash": "f020f2eb85b1dea98caa73086ac3d545606469c4af55e7ff72ede138aa2502f1",
         "prevHash": "ff441d261d6d9cc4995a05871192d8789e74a6f9d2b2cd4a12e92f83797a4658",
         "shardId": 4294967295,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1011492116
     },
     {
         "hash": "2e2f0bf9933b1f3b8d5807cdfb199511a2f507b3b8edd5159bf8b4b522b4797a",
@@ -90,7 +95,7 @@
         "round": 1495774,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 392,
+        "proposer": "b91d...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 388,
         "sizeTxs": 0,
@@ -98,7 +103,8 @@
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "33ff2cae5ff4354074da68e772eab7d29564ccb302e845b57163ed1ec8a5c8c1",
         "shardId": 0,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1021495619
     },
     {
         "hash": "33ff2cae5ff4354074da68e772eab7d29564ccb302e845b57163ed1ec8a5c8c1",
@@ -106,7 +112,7 @@
         "round": 1495773,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 325,
+        "proposer": "d505...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 388,
         "sizeTxs": 0,
@@ -114,7 +120,8 @@
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "9f2f776c5c7dc1131f9a75f2b90f409a3399fa3dc3b66a29fe4db43b35caaff9",
         "shardId": 0,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1021495618
     },
     {
         "hash": "36650c299a1835a884e89a01a24e15a961bf8217f73b6d7b6b850a458780f6c8",
@@ -122,7 +129,7 @@
         "round": 1495771,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 40,
+        "proposer": "6ccc...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 390,
         "sizeTxs": 0,
@@ -130,7 +137,8 @@
         "stateRootHash": "47bac17dc56b8078c093b3af6ebf5ffeea35c62edfb9e53100ce1f3613fb5b6b",
         "prevHash": "cca14318e036c6658a35782fef9dbc2de31c7b088e335ab3c982910764900d4d",
         "shardId": 2,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1041495503
     },
     {
         "hash": "3f6ca6e16899ff7d4bd0db580f950a36fd6a17c83983f3776cffa266e3a4bdb1",
@@ -138,7 +146,7 @@
         "round": 1495775,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 376,
+        "proposer": "79cf...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 388,
         "sizeTxs": 0,
@@ -146,7 +154,8 @@
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "2e2f0bf9933b1f3b8d5807cdfb199511a2f507b3b8edd5159bf8b4b522b4797a",
         "shardId": 0,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1021495620
     },
     {
         "hash": "44ee0b33ba4c4eb0466156f6a85f5c90d57284d6b4df36991a8be79e22daed64",
@@ -159,7 +168,7 @@
             "e41118f9a1b44cf2b7a61b064090bd5d9cd63cf97a5d04a8b8b46758a8e85fd8",
             "36650c299a1835a884e89a01a24e15a961bf8217f73b6d7b6b850a458780f6c8"
         ],
-        "proposer": 379,
+        "proposer": "585d...",
         "pubKeyBitmap": "fffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffff",
         "size": 933,
         "sizeTxs": 0,
@@ -167,7 +176,8 @@
         "stateRootHash": "f020f2eb85b1dea98caa73086ac3d545606469c4af55e7ff72ede138aa2502f1",
         "prevHash": "202970e95ca44b78cb0a566f34fc03bc36a29bad5fcb8e2829eddbd7dba3f127",
         "shardId": 4294967295,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1011492117
     },
     {
         "hash": "4df5247eb956c736f091dd5ada16ce08faf05c4589506a94fb4e885583d1c5f6",
@@ -175,7 +185,7 @@
         "round": 1495776,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 34,
+        "proposer": "3aa4...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 388,
         "sizeTxs": 0,
@@ -183,7 +193,8 @@
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "3f6ca6e16899ff7d4bd0db580f950a36fd6a17c83983f3776cffa266e3a4bdb1",
         "shardId": 0,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1021495621
     },
     {
         "hash": "670ca1361e0923d54bd5cc0887d2606afe8d4e3d91ab87684b7af06a274eb326",
@@ -191,7 +202,7 @@
         "round": 1495773,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 394,
+        "proposer": "4894...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 390,
         "sizeTxs": 0,
@@ -199,7 +210,8 @@
         "stateRootHash": "47bac17dc56b8078c093b3af6ebf5ffeea35c62edfb9e53100ce1f3613fb5b6b",
         "prevHash": "a1c344bc352190c9f5f419e53d1557d9b54946a5cfdd543f02ec8d28adc6153d",
         "shardId": 2,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1041495505
     },
     {
         "hash": "723e002d151ef2779225829d140c40378caf5c094dd0c17b956afa6027b174fd",
@@ -207,7 +219,7 @@
         "round": 1495776,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 254,
+        "proposer": "5d98...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 390,
         "sizeTxs": 0,
@@ -215,7 +227,8 @@
         "stateRootHash": "47bac17dc56b8078c093b3af6ebf5ffeea35c62edfb9e53100ce1f3613fb5b6b",
         "prevHash": "7422949ed19cc1864ec7fb8974049fe71a906e00263f6d41b9cebc0faeb92f7a",
         "shardId": 2,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1041495508
     },
     {
         "hash": "7422949ed19cc1864ec7fb8974049fe71a906e00263f6d41b9cebc0faeb92f7a",
@@ -223,7 +236,7 @@
         "round": 1495775,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 14,
+        "proposer": "9e95...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 390,
         "sizeTxs": 0,
@@ -231,7 +244,8 @@
         "stateRootHash": "47bac17dc56b8078c093b3af6ebf5ffeea35c62edfb9e53100ce1f3613fb5b6b",
         "prevHash": "f2dd1f3e1c2a97fa6371969cb54fb04a45d025eb6942dffa92ce15f4ff9e8145",
         "shardId": 2,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1041495507
     },
     {
         "hash": "7eecd9cc778fb0bfb1e1f9d22c0ceb526de889997d0be02931d0c09302913831",
@@ -244,7 +258,7 @@
             "670ca1361e0923d54bd5cc0887d2606afe8d4e3d91ab87684b7af06a274eb326",
             "33ff2cae5ff4354074da68e772eab7d29564ccb302e845b57163ed1ec8a5c8c1"
         ],
-        "proposer": 142,
+        "proposer": "0411...",
         "pubKeyBitmap": "fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7ffffffffffffffffffffffffffffffffffff",
         "size": 939,
         "sizeTxs": 0,
@@ -252,7 +266,8 @@
         "stateRootHash": "f020f2eb85b1dea98caa73086ac3d545606469c4af55e7ff72ede138aa2502f1",
         "prevHash": "853a396f1ea9a67e709b9b115ad4be09f3967622f0dc961c793560eb45ba7866",
         "shardId": 4294967295,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1011492119
     },
     {
         "hash": "853a396f1ea9a67e709b9b115ad4be09f3967622f0dc961c793560eb45ba7866",
@@ -265,7 +280,7 @@
             "1351d48d6a267d67e1cfc1b920a3d07ddfa1e8b7bc0ee59dc1d9c750a5d21027",
             "a1c344bc352190c9f5f419e53d1557d9b54946a5cfdd543f02ec8d28adc6153d"
         ],
-        "proposer": 60,
+        "proposer": "09b6...",
         "pubKeyBitmap": "ffffffffffffffffffffbffffffffffffffff7ffffffffffffffffffffffffffffffffffffffffffffffffdffffffffffffd",
         "size": 939,
         "sizeTxs": 0,
@@ -273,7 +288,8 @@
         "stateRootHash": "f020f2eb85b1dea98caa73086ac3d545606469c4af55e7ff72ede138aa2502f1",
         "prevHash": "44ee0b33ba4c4eb0466156f6a85f5c90d57284d6b4df36991a8be79e22daed64",
         "shardId": 4294967295,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1011492118
     },
     {
         "hash": "8c669659bd822258906271b82c86427d64cb74bfcefb14044a549d04c5cb3b1e",
@@ -281,7 +297,7 @@
         "round": 1495773,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 356,
+        "proposer": "cb07...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 390,
         "sizeTxs": 0,
@@ -289,7 +305,8 @@
         "stateRootHash": "d06169a5d11b80fe485d23cd17d1ec3525a0eefd357710b4eab03039d918075c",
         "prevHash": "1351d48d6a267d67e1cfc1b920a3d07ddfa1e8b7bc0ee59dc1d9c750a5d21027",
         "shardId": 1,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1031495596
     },
     {
         "hash": "9f2f776c5c7dc1131f9a75f2b90f409a3399fa3dc3b66a29fe4db43b35caaff9",
@@ -297,7 +314,7 @@
         "round": 1495772,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 381,
+        "proposer": "aac6...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 388,
         "sizeTxs": 0,
@@ -305,7 +322,8 @@
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "f694b87cb7881287a54514935ef00763cef7aef3904dbdb74ab91c02f0bf3125",
         "shardId": 0,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1021495617
     },
     {
         "hash": "a12b391d7be378ac0dbc2cf838c4fa8e0ec4db5a39e67e8a87042ec0c0db21d1",
@@ -318,7 +336,7 @@
             "f2dd1f3e1c2a97fa6371969cb54fb04a45d025eb6942dffa92ce15f4ff9e8145",
             "2e2f0bf9933b1f3b8d5807cdfb199511a2f507b3b8edd5159bf8b4b522b4797a"
         ],
-        "proposer": 34,
+        "proposer": "0389...",
         "pubKeyBitmap": "ffffffdfffffffffffffffffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdff",
         "size": 933,
         "sizeTxs": 0,
@@ -326,7 +344,8 @@
         "stateRootHash": "f020f2eb85b1dea98caa73086ac3d545606469c4af55e7ff72ede138aa2502f1",
         "prevHash": "7eecd9cc778fb0bfb1e1f9d22c0ceb526de889997d0be02931d0c09302913831",
         "shardId": 4294967295,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1011492120
     },
     {
         "hash": "a1c344bc352190c9f5f419e53d1557d9b54946a5cfdd543f02ec8d28adc6153d",
@@ -334,7 +353,7 @@
         "round": 1495772,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 246,
+        "proposer": "f6f7...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 390,
         "sizeTxs": 0,
@@ -342,7 +361,8 @@
         "stateRootHash": "47bac17dc56b8078c093b3af6ebf5ffeea35c62edfb9e53100ce1f3613fb5b6b",
         "prevHash": "36650c299a1835a884e89a01a24e15a961bf8217f73b6d7b6b850a458780f6c8",
         "shardId": 2,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1041495504
     },
     {
         "hash": "c099b28a529dd4f6aabe070194ea1d64ac3383ebf46e0592d711a654426bb181",
@@ -350,7 +370,7 @@
         "round": 1495775,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 267,
+        "proposer": "6b6f...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 390,
         "sizeTxs": 0,
@@ -358,7 +378,8 @@
         "stateRootHash": "d06169a5d11b80fe485d23cd17d1ec3525a0eefd357710b4eab03039d918075c",
         "prevHash": "17cb4b144e6ab049d42bb3bef3db160f3b0bc173d9596ce3d95b0653f5671944",
         "shardId": 1,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1031495598
     },
     {
         "hash": "e41118f9a1b44cf2b7a61b064090bd5d9cd63cf97a5d04a8b8b46758a8e85fd8",
@@ -366,7 +387,7 @@
         "round": 1495771,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 342,
+        "proposer": "4da0...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 390,
         "sizeTxs": 0,
@@ -374,7 +395,8 @@
         "stateRootHash": "d06169a5d11b80fe485d23cd17d1ec3525a0eefd357710b4eab03039d918075c",
         "prevHash": "258c4f09e5c1cbf5408fcc6ce523e3c18503682b5f2cda3cfd320ffc83036809",
         "shardId": 1,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1031495594
     },
     {
         "hash": "f2dd1f3e1c2a97fa6371969cb54fb04a45d025eb6942dffa92ce15f4ff9e8145",
@@ -382,7 +404,7 @@
         "round": 1495774,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 195,
+        "proposer": "1592...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 390,
         "sizeTxs": 0,
@@ -390,7 +412,8 @@
         "stateRootHash": "47bac17dc56b8078c093b3af6ebf5ffeea35c62edfb9e53100ce1f3613fb5b6b",
         "prevHash": "670ca1361e0923d54bd5cc0887d2606afe8d4e3d91ab87684b7af06a274eb326",
         "shardId": 2,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1041495506
     },
     {
         "hash": "f694b87cb7881287a54514935ef00763cef7aef3904dbdb74ab91c02f0bf3125",
@@ -398,7 +421,7 @@
         "round": 1495771,
         "epoch": 103,
         "miniBlocksHashes": [],
-        "proposer": 122,
+        "proposer": "cf13...",
         "pubKeyBitmap": "ffffffffffffff7f",
         "size": 388,
         "sizeTxs": 0,
@@ -406,7 +429,8 @@
         "stateRootHash": "a27fefe954878c7bd42377df46ff293cc6cad621991b9ec4ff711e7e2d0d1e20",
         "prevHash": "157d7131164352c9f6d233283e2113246e8b0b98fa65b27577cce509c8c8d250",
         "shardId": 0,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1021495616
     },
     {
         "hash": "ff441d261d6d9cc4995a05871192d8789e74a6f9d2b2cd4a12e92f83797a4658",
@@ -419,7 +443,7 @@
             "972bc11ba99fa4bd24600df50b5d30e817a575166ed8f09383676a6193846531",
             "78be7875ab8804c8ba7f6c329835f6f98b025245431d8d1cb4d4b0ec736a5edc"
         ],
-        "proposer": 14,
+        "proposer": "1157...",
         "pubKeyBitmap": "fffffffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
         "size": 939,
         "sizeTxs": 0,
@@ -427,6 +451,7 @@
         "stateRootHash": "f020f2eb85b1dea98caa73086ac3d545606469c4af55e7ff72ede138aa2502f1",
         "prevHash": "255e8dd8aa73976e66de13840c0497415e624d6697f9a51ed3421b552fbe7df5",
         "shardId": 4294967295,
-        "txCount": 0
+        "txCount": 0,
+        "searchOrder": 1011492115
     }
 ]

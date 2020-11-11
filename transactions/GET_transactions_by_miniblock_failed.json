@@ -11,21 +11,25 @@
         "senderShard": 2,
         "gasPrice": 1000000000,
         "gasLimit": 35000000,
-        "gasUsed": 35000000,
+        "gasUsed": 68000,
         "data": "Y2xh...",
         "signature": "ce93...",
         "timestamp": 1605018102,
-        "status": "Not Executed",
+        "status": "fail",
+        "searchOrder": 0,
         "scResults": [
             {
+                "hash": "54ec...",
                 "nonce": 0,
                 "gasLimit": 0,
                 "gasPrice": 0,
                 "value": "0",
                 "sender": "erd1...",
                 "receiver": "erd1...",
-                "data": "QHVz...",
+                "relayedValue": "<nil>",
+                "data": "QDc1...",
                 "prevTxHash": "0c16...",
+                "originalTxHash": "0c16...",
                 "callType": "0",
                 "returnMessage": "unknown caller"
             }
