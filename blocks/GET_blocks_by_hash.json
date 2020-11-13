@@ -1,0 +1,15 @@
+{
+    "epoch": 103,
+    "hash": "f116...",
+    "nonce": 1483272,
+    "prevHash": "3e79...",
+    "proposer": "b232...",
+    "pubKeyBitmap": "ffffffffffffff7f",
+    "round": 1483449,
+    "shard": 1,
+    "size": 390,
+    "sizeTxs": 0,
+    "stateRootHash": "2963...",
+    "timestamp": 1605018294,
+    "txCount": 0
+}

@@ -1,0 +1,16 @@
+{
+    "gasLimit": 0,
+    "gasPrice": 0,
+    "gasUsed": 0,
+    "miniBlockHash": "9e01...",
+    "nonce": 0,
+    "receiver": "erd1...",
+    "receiverShard": 2,
+    "round": 1396897,
+    "sender": "4294967295",
+    "senderShard": 4294967295,
+    "status": "success",
+    "timestamp": 1604499018,
+    "txHash": "a726...",
+    "value": "3580749377176379040269"
+}
