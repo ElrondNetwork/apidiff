@@ -1,20 +1,17 @@
-[
-    {
-        "txHash": "474d...",
-        "miniBlockHash": "474d...",
-        "nonce": 126,
-        "round": 615825,
-        "value": "5000000000000000000000",
-        "receiver": "erd1...",
-        "sender": "erd1...",
-        "receiverShard": 2,
-        "senderShard": 2,
-        "gasPrice": 1000000000,
-        "gasLimit": 50000,
-        "gasUsed": 50000,
-        "signature": "8856...",
-        "timestamp": 1599812550,
-        "status": "invalid",
-        "searchOrder": 2
-    }
-]
+{
+    "gasLimit": 50000,
+    "gasPrice": 1000000000,
+    "gasUsed": 50000,
+    "miniBlockHash": "6ef5...",
+    "nonce": 126,
+    "receiver": "erd1...",
+    "receiverShard": 2,
+    "round": 615825,
+    "sender": "erd1...",
+    "senderShard": 2,
+    "signature": "8856...",
+    "status": "invalid",
+    "timestamp": 1599812550,
+    "txHash": "474d...",
+    "value": "5000000000000000000000"
+}

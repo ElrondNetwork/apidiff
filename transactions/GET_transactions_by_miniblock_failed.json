@@ -1,38 +1,37 @@
 [
     {
-        "txHash": "0c16...",
-        "miniBlockHash": "0c16...",
-        "nonce": 0,
-        "round": 1483417,
-        "value": "0",
-        "receiver": "erd1...",
-        "sender": "erd1...",
-        "receiverShard": 2,
-        "senderShard": 2,
-        "gasPrice": 1000000000,
+        "data": "Y2xhaW1SZXdhcmRz",
         "gasLimit": 35000000,
+        "gasPrice": 1000000000,
         "gasUsed": 68000,
-        "data": "Y2xh...",
-        "signature": "ce93...",
-        "timestamp": 1605018102,
-        "status": "fail",
-        "searchOrder": 0,
+        "miniBlockHash": "00ae...",
+        "nonce": 0,
+        "receiver": "erd1...",
+        "receiverShard": 2,
+        "round": 1483417,
         "scResults": [
             {
-                "hash": "54ec...",
-                "nonce": 0,
+                "callType": "0",
+                "data": "QDc1...",
                 "gasLimit": 0,
                 "gasPrice": 0,
-                "value": "0",
-                "sender": "erd1...",
+                "hash": "54ec...",
+                "nonce": 0,
+                "originalTxHash": "0c16...",
+                "prevTxHash": "0c16...",
                 "receiver": "erd1...",
                 "relayedValue": "<nil>",
-                "data": "QDc1...",
-                "prevTxHash": "0c16...",
-                "originalTxHash": "0c16...",
-                "callType": "0",
-                "returnMessage": "unknown caller"
+                "returnMessage": "unknown caller",
+                "sender": "erd1...",
+                "value": "0"
             }
-        ]
+        ],
+        "sender": "erd1...",
+        "senderShard": 2,
+        "signature": "ce93...",
+        "status": "fail",
+        "timestamp": 1605018102,
+        "txHash": "0c16...",
+        "value": "0"
     }
 ]
