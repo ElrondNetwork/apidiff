@@ -1,18 +1,16 @@
-[
-    {
-        "hash": "f116e993f99de233d2f7fc346ffc036dc023bab582bc9a9ab4cb31dda34b9b15",
-        "nonce": 1483272,
-        "round": 1483449,
-        "epoch": 103,
-        "miniBlocksHashes": [],
-        "proposer": 73,
-        "pubKeyBitmap": "ffffffffffffff7f",
-        "size": 390,
-        "sizeTxs": 0,
-        "timestamp": 1605018294,
-        "stateRootHash": "2963a262fef7628225ade6da15a518391d43924b26c49e8420de7644f7c4cef8",
-        "prevHash": "3e7903811a7078b57984a0ea23a18ce2145c6926de7e33ca9c53e818fac0ab98",
-        "shardId": 1,
-        "txCount": 0
-    }
-]
+{
+    "epoch": 103,
+    "hash": "f116...",
+    "miniBlocksHashes": [],
+    "nonce": 1483272,
+    "prevHash": "3e79...",
+    "proposer": 73,
+    "pubKeyBitmap": "ffffffffffffff7f",
+    "round": 1483449,
+    "shardId": 1,
+    "size": 390,
+    "sizeTxs": 0,
+    "stateRootHash": "2963...",
+    "timestamp": 1605018294,
+    "txCount": 0
+}
