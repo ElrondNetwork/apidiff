@@ -1,0 +1,14 @@
+{
+    "code": "successful",
+    "data": {
+        "transaction": {
+            "epoch": 105,
+            "receiver": "erd1...",
+            "round": 1512105,
+            "sender": "4294967295",
+            "status": "executed",
+            "type": "reward",
+            "value": "9788118682704618518"
+        }
+    }
+}

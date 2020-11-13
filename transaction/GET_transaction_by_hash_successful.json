@@ -1,0 +1,17 @@
+{
+    "code": "successful",
+    "data": {
+        "transaction": {
+            "data": "dW5T...",
+            "gasLimit": 250000000,
+            "gasPrice": 1000000000,
+            "nonce": 11,
+            "receiver": "erd1...",
+            "sender": "erd1...",
+            "signature": "37f0...",
+            "status": "executed",
+            "type": "normal",
+            "value": "0"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "code": "successful",
+    "data": {
+        "account": {
+            "address": "erd1...",
+            "balance": "2757553933753872599525358",
+            "code": "0061...",
+            "codeHash": "YTnx...",
+            "nonce": 0,
+            "rootHash": "7H/j..."
+        }
+    }
+}
