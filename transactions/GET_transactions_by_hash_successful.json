@@ -7,11 +7,11 @@
     "nonce": 114,
     "receiver": "erd1...",
     "receiverShard": 1,
-    "round": 501083,
+    "round": 501087,
     "sender": "erd1...",
     "senderShard": 2,
     "signature": "0fa7...",
-    "status": "Success",
+    "status": "success",
     "timestamp": 1599124122,
     "txHash": "2028...",
     "value": "1000000000000"

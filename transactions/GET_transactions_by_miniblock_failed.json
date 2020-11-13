@@ -3,7 +3,7 @@
         "data": "Y2xhaW1SZXdhcmRz",
         "gasLimit": 35000000,
         "gasPrice": 1000000000,
-        "gasUsed": 35000000,
+        "gasUsed": 68000,
         "miniBlockHash": "00ae...",
         "nonce": 0,
         "receiver": "erd1...",
@@ -12,12 +12,15 @@
         "scResults": [
             {
                 "callType": "0",
-                "data": "QHVz...",
+                "data": "QDc1...",
                 "gasLimit": 0,
                 "gasPrice": 0,
+                "hash": "54ec...",
                 "nonce": 0,
+                "originalTxHash": "0c16...",
                 "prevTxHash": "0c16...",
                 "receiver": "erd1...",
+                "relayedValue": "<nil>",
                 "returnMessage": "unknown caller",
                 "sender": "erd1...",
                 "value": "0"
@@ -26,7 +29,7 @@
         "sender": "erd1...",
         "senderShard": 2,
         "signature": "ce93...",
-        "status": "Not Executed",
+        "status": "fail",
         "timestamp": 1605018102,
         "txHash": "0c16...",
         "value": "0"

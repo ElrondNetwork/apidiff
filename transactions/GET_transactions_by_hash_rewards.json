@@ -9,7 +9,7 @@
     "round": 1396897,
     "sender": "4294967295",
     "senderShard": 4294967295,
-    "status": "Success",
+    "status": "success",
     "timestamp": 1604499018,
     "txHash": "a726...",
     "value": "3580749377176379040269"
