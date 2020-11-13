@@ -2,13 +2,14 @@
     "code": "successful",
     "data": {
         "status": {
-            "erd_current_round": 1526121,
+            "erd_current_round": 1526122,
             "erd_epoch_number": 105,
-            "erd_nonce": 1522318,
+            "erd_highest_final_nonce": 1522318,
+            "erd_nonce": 1522319,
             "erd_nonce_at_epoch_start": 1508365,
-            "erd_nonces_passed_in_current_epoch": 13953,
+            "erd_nonces_passed_in_current_epoch": 13954,
             "erd_round_at_epoch_start": 1512105,
-            "erd_rounds_passed_in_current_epoch": 14016,
+            "erd_rounds_passed_in_current_epoch": 14017,
             "erd_rounds_per_epoch": 14400
         }
     }
