@@ -7,7 +7,9 @@
             "code": "0061...",
             "codeHash": "YTnx...",
             "nonce": 0,
-            "rootHash": "7H/j..."
+            "rootHash": "7H/j...",
+            "username": ""
         }
-    }
+    },
+    "error": ""
 }

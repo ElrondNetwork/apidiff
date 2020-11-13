@@ -17,5 +17,6 @@
             "erd_shard_consensus_group_size": 63,
             "erd_start_time": 1596117600
         }
-    }
+    },
+    "error": ""
 }
