@@ -14,9 +14,8 @@
                     "callType": 0,
                     "code": null,
                     "codeMetaData": null,
-                    "data": null,
-                    "gasLimit": 0,
                     "nonce": 0,
+                    "outputTransfers": [],
                     "storageUpdates": {
                         "...": "..."
                     }
