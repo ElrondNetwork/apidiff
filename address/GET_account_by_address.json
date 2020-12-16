@@ -1,0 +1,10 @@
+{
+    "code": "successful",
+    "data": {
+        "account": {
+            "address": "erd1...",
+            "balance": "4488577062578152120",
+            "nonce": 130
+        }
+    }
+}

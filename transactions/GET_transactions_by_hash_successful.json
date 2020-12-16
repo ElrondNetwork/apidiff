@@ -1,0 +1,18 @@
+{
+    "data": "N2QwMzJjNDBlYjk3NTk2Njc2",
+    "gasLimit": 77000,
+    "gasPrice": 1000000000,
+    "gasUsed": 77000,
+    "miniBlockHash": "4610...",
+    "nonce": 114,
+    "receiver": "erd1...",
+    "receiverShard": 1,
+    "round": 501087,
+    "sender": "erd1...",
+    "senderShard": 2,
+    "signature": "0fa7...",
+    "status": "success",
+    "timestamp": 1599124122,
+    "txHash": "2028...",
+    "value": "1000000000000"
+}
