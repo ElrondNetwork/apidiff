@@ -1,0 +1,113 @@
+{
+    "code": "successful",
+    "data": {
+        "hyperblock": {
+            "epoch": 42,
+            "hash": "64ca...",
+            "nonce": 613681,
+            "numTxs": 5,
+            "prevBlockHash": "cdb3...",
+            "round": 615827,
+            "shardBlocks": [
+                {
+                    "hash": "6f16...",
+                    "nonce": 615782,
+                    "shard": 0
+                },
+                {
+                    "hash": "4f15...",
+                    "nonce": 615734,
+                    "shard": 1
+                },
+                {
+                    "hash": "78b4...",
+                    "nonce": 615748,
+                    "shard": 2
+                }
+            ],
+            "transactions": [
+                {
+                    "destinationShard": 2,
+                    "gasLimit": 50000,
+                    "gasPrice": 1000000000,
+                    "hash": "1b8b...",
+                    "miniblockHash": "6ef5...",
+                    "miniblockType": "InvalidBlock",
+                    "nonce": 124,
+                    "receiver": "erd1...",
+                    "sender": "erd1...",
+                    "signature": "ed12...",
+                    "sourceShard": 2,
+                    "status": "invalid",
+                    "type": "invalid",
+                    "value": "3000000000000000000000"
+                },
+                {
+                    "destinationShard": 2,
+                    "gasLimit": 50000,
+                    "gasPrice": 1000000000,
+                    "hash": "2ab6...",
+                    "miniblockHash": "6ef5...",
+                    "miniblockType": "InvalidBlock",
+                    "nonce": 122,
+                    "receiver": "erd1...",
+                    "sender": "erd1...",
+                    "signature": "6646...",
+                    "sourceShard": 2,
+                    "status": "invalid",
+                    "type": "invalid",
+                    "value": "1000000000000000000000"
+                },
+                {
+                    "destinationShard": 2,
+                    "gasLimit": 50000,
+                    "gasPrice": 1000000000,
+                    "hash": "474d...",
+                    "miniblockHash": "6ef5...",
+                    "miniblockType": "InvalidBlock",
+                    "nonce": 126,
+                    "receiver": "erd1...",
+                    "sender": "erd1...",
+                    "signature": "8856...",
+                    "sourceShard": 2,
+                    "status": "invalid",
+                    "type": "invalid",
+                    "value": "5000000000000000000000"
+                },
+                {
+                    "destinationShard": 2,
+                    "gasLimit": 50000,
+                    "gasPrice": 1000000000,
+                    "hash": "8c70...",
+                    "miniblockHash": "6ef5...",
+                    "miniblockType": "InvalidBlock",
+                    "nonce": 125,
+                    "receiver": "erd1...",
+                    "sender": "erd1...",
+                    "signature": "5cc3...",
+                    "sourceShard": 2,
+                    "status": "invalid",
+                    "type": "invalid",
+                    "value": "4000000000000000000000"
+                },
+                {
+                    "destinationShard": 2,
+                    "gasLimit": 50000,
+                    "gasPrice": 1000000000,
+                    "hash": "fcce...",
+                    "miniblockHash": "6ef5...",
+                    "miniblockType": "InvalidBlock",
+                    "nonce": 123,
+                    "receiver": "erd1...",
+                    "sender": "erd1...",
+                    "signature": "c20d...",
+                    "sourceShard": 2,
+                    "status": "invalid",
+                    "type": "invalid",
+                    "value": "2000000000000000000000"
+                }
+            ]
+        }
+    },
+    "error": ""
+}

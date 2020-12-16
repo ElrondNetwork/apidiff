@@ -1,0 +1,17 @@
+{
+    "code": "successful",
+    "data": {
+        "status": {
+            "erd_current_round": 2000733,
+            "erd_epoch_number": 138,
+            "erd_highest_final_nonce": 1995895,
+            "erd_nonce": 1995896,
+            "erd_nonce_at_epoch_start": 1982522,
+            "erd_nonces_passed_in_current_epoch": 13374,
+            "erd_round_at_epoch_start": 1987338,
+            "erd_rounds_passed_in_current_epoch": 13395,
+            "erd_rounds_per_epoch": 14400
+        }
+    },
+    "error": ""
+}

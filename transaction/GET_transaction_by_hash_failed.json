@@ -1,0 +1,32 @@
+{
+    "code": "successful",
+    "data": {
+        "transaction": {
+            "NotarizedAtSourceInMetaHash": "989b...",
+            "blockHash": "fd7a...",
+            "blockNonce": 1500840,
+            "data": "dW5T...",
+            "destinationShard": 2,
+            "epoch": 104,
+            "gasLimit": 250000000,
+            "gasPrice": 1000000000,
+            "hyperblockHash": "989b...",
+            "hyperblockNonce": 1497425,
+            "miniblockHash": "baa1...",
+            "miniblockType": "TxBlock",
+            "nonce": 33,
+            "notarizedAtDestinationInMetaHash": "989b...",
+            "notarizedAtDestinationInMetaNonce": 1497425,
+            "notarizedAtSourceInMetaNonce": 1497425,
+            "receiver": "erd1...",
+            "round": 1501108,
+            "sender": "erd1...",
+            "signature": "db50...",
+            "sourceShard": 2,
+            "status": "success",
+            "type": "normal",
+            "value": "0"
+        }
+    },
+    "error": ""
+}

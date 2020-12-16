@@ -1,0 +1,27 @@
+{
+    "code": "successful",
+    "data": {
+        "transaction": {
+            "NotarizedAtSourceInMetaHash": "4fb3...",
+            "blockHash": "e370...",
+            "blockNonce": 1511848,
+            "destinationShard": 2,
+            "epoch": 105,
+            "hyperblockHash": "ef5e...",
+            "hyperblockNonce": 1508378,
+            "miniblockHash": "d5c9...",
+            "miniblockType": "RewardsBlock",
+            "notarizedAtDestinationInMetaHash": "ef5e...",
+            "notarizedAtDestinationInMetaNonce": 1508378,
+            "notarizedAtSourceInMetaNonce": 1508365,
+            "receiver": "erd1...",
+            "round": 1512116,
+            "sender": "metachain",
+            "sourceShard": 4294967295,
+            "status": "success",
+            "type": "reward",
+            "value": "9788118682704618518"
+        }
+    },
+    "error": ""
+}

@@ -1,0 +1,50 @@
+{
+    "code": "successful",
+    "data": {
+        "hyperblock": {
+            "epoch": 105,
+            "hash": "ce0e...",
+            "nonce": 1521883,
+            "numTxs": 1,
+            "prevBlockHash": "47f5...",
+            "round": 1525684,
+            "shardBlocks": [
+                {
+                    "hash": "0593...",
+                    "nonce": 1525527,
+                    "shard": 0
+                },
+                {
+                    "hash": "823f...",
+                    "nonce": 1525505,
+                    "shard": 1
+                },
+                {
+                    "hash": "a039...",
+                    "nonce": 1525413,
+                    "shard": 2
+                }
+            ],
+            "transactions": [
+                {
+                    "data": "dW5T...",
+                    "destinationShard": 2,
+                    "gasLimit": 250000000,
+                    "gasPrice": 1000000000,
+                    "hash": "32c6...",
+                    "miniblockHash": "c6e8...",
+                    "miniblockType": "TxBlock",
+                    "nonce": 11,
+                    "receiver": "erd1...",
+                    "sender": "erd1...",
+                    "signature": "37f0...",
+                    "sourceShard": 1,
+                    "status": "success",
+                    "type": "normal",
+                    "value": "0"
+                }
+            ]
+        }
+    },
+    "error": ""
+}

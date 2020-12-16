@@ -1,0 +1,32 @@
+{
+    "code": "successful",
+    "data": {
+        "hyperblock": {
+            "epoch": 0,
+            "hash": "441a...",
+            "nonce": 42,
+            "numTxs": 0,
+            "prevBlockHash": "9e31...",
+            "round": 42,
+            "shardBlocks": [
+                {
+                    "hash": "7836...",
+                    "nonce": 40,
+                    "shard": 0
+                },
+                {
+                    "hash": "5c82...",
+                    "nonce": 40,
+                    "shard": 1
+                },
+                {
+                    "hash": "0749...",
+                    "nonce": 40,
+                    "shard": 2
+                }
+            ],
+            "transactions": []
+        }
+    },
+    "error": ""
+}
